@@ -1,0 +1,35 @@
+{
+    "name": "item 1",
+    "sell" : true,
+    "price": 20,
+    "photo": "item1.jpg",
+    "tags": ["lifestyle", "motor"]
+}
+{
+    "name": "item 2",
+    "sell" : false,
+    "price": 100,
+    "photo": "item2.jpg",
+    "tags": ["mobile"]
+}
+{
+    "name": "item 3",
+    "sell" : true,
+    "price": 50,
+    "photo": "item3.jpg",
+    "tags": ["lifestyle"]
+}
+{
+    "name": "item 4",
+    "sell" : false,
+    "price": 75,
+    "photo": "item4.jpg",
+    "tags": ["work"]
+}
+{
+    "name": "item 5",
+    "sell" : true,
+    "price": 250,
+    "photo": "item5.jpg",
+    "tags": ["work", "mobile"]
+}
